@@ -5,7 +5,7 @@
 > **Hardware voting terminal firmware for secure blockchain-based electronic voting system**  
 > Built with STM32L432KC microcontroller and ESP32 WiFi bridge over 11 months of solo development.
 
-![Terminal](https://img.shields.io/badge/Platform-STM32L://img.shields.io/badge/WiFi-ESP32--ric-R307-green 📋 Table of Contents
+![Terminal](https://img.shields.io/badge/Platform-STM32L-blue) ![WiFi](https://img.shields.io/badge/WiFi-ESP32-green) ![Biometric](https://img.shields.io/badge/Biometric-R307-orange)
 
 ***
 
